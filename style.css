@@ -1,0 +1,34 @@
+h1{
+    text-align: center;
+}
+span{
+    font-size: 1em;
+    font-weight: bold;
+    text-align: center;
+}
+button{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: antiquewhite;
+    font-size: 20px;
+    width: 90px;
+    height: 40px;
+}
+#forms{
+    position: relative;
+    left: 33%;
+}
+#okButton{
+    margin-top: 10px;
+    position: relative;
+    font-size: 20px;
+    width: 80px;
+    height: 40px;
+    left: 13%;
+}
+#buttons{
+    width: auto;
+    height: auto;
+    position: relative;
+    left: 30%;
+}
